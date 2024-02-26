@@ -1,0 +1,10 @@
+body{
+    background-color: beige;
+}
+h1{
+    text-align: center;
+    font-size: 80px;
+    color: salmon;
+    margin-top: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
